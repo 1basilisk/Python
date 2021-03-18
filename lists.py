@@ -1,0 +1,27 @@
+places = ['spain', 'bali', 'goa', 'new york', 'london'  ]
+print(places)
+print(sorted(places))
+print(places)
+print(sorted)
+
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse=True)
+del places[0]
+places.append('Brazil')
+places.insert(3,'Ghana')
+print(places)
+nplace=places.pop()
+nplace=places.pop(3)
+print(places)
+print(nplace)
+print("enter a place")
+y = input()
+places.append(y)
+print(places)
+print("i wanna visit " +  str(len(places)) +" places")
+
