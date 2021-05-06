@@ -6,7 +6,9 @@ if d>=0:
 	r1 = (-b + (d**(1/2)))/2/a
 	r2 = (-b - (d**(1/2)))/2/a
 	print("Roots are:	" +str( r1 ) + " AND " +str(r2))
-if d<0: #makes non-real roots by taking roots as string!!
+
+if d<0: 
+#makes non-real roots by taking roots as string!!
 	d = -d
 	d  = d**(1/2)
 	print("Caution: Non-Real Roots ahead!")
