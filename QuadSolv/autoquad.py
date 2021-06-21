@@ -53,7 +53,7 @@ while(real < total):
 	count += 1
 	
 	
-	#os.system("clear")
+#	os.system("clear")
 
 print()	
 end = time.time() #end time
