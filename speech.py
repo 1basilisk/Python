@@ -30,6 +30,5 @@ def main():
 			
 def speak(this):
 		os.system("espeak -v mb-us1 " + " \"" + this + "\"")
-
 		
 main()		
