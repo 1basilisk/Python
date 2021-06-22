@@ -12,15 +12,11 @@ sample = "sequences/1.txt"
 		
 with open(data) as file:
 	reader = csv.DictReader(file)
-	Dlist = list(reader)
+	data_list = list(reader)
 with open(sample) as samp:
 	seq = samp.read()
-	
+print(data_list)	
 longest_STR = {}
-len_str = 1
-for i in len(seq):
-		if seq[i] == seq[i:len_str]
-		longest_STR[seq:len_str] = 1;
-print(longest_STR)
+
 		
 		
