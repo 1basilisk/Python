@@ -1,0 +1,1001 @@
+s.no,movie,gener
+1,prestige,musical adventure musical
+2,ice age,fantasy fantasy action
+3,prestige,drama adventure adventure
+4,the shawshank redemption,drama fantasy drama
+5,mission impossible,musical comedy adventure
+6,inception,musical fantasy musical
+7,interstellar,drama musical drama
+8,ironman,adventure adventure drama
+9,mission impossible,fiction drama drama
+10,ironman,comedy fantasy musical
+11,interstellar,fantasy fantasy action
+12,mission impossible,action adventure fiction
+13,knives out,action musical action
+14,knives out,musical musical drama
+15,inception,action action action
+16,ironman,musical musical drama
+17,tenet,drama drama action
+18,pirates of the carribean,fantasy fantasy comedy
+19,prestige,adventure drama adventure
+20,knives out,drama musical comedy
+21,ironman,musical fiction drama
+22,pirates of the carribean,drama comedy fiction
+23,harry potter,comedy comedy fantasy
+24,interstellar,fantasy musical action
+25,tenet,musical action comedy
+26,inception,fantasy musical comedy
+27,the dark knight,drama fantasy fantasy
+28,mission impossible,fantasy musical fantasy
+29,prestige,musical comedy adventure
+30,the dark knight,musical fiction fiction
+31,the shawshank redemption,fiction musical action
+32,tenet,fantasy comedy drama
+33,harry potter,drama fantasy drama
+34,the dark knight,comedy comedy drama
+35,inception,action fiction fiction
+36,ice age,musical adventure fiction
+37,mission impossible,drama comedy action
+38,ironman,adventure fantasy comedy
+39,pirates of the carribean,drama action fantasy
+40,tenet,drama action fiction
+41,pirates of the carribean,drama comedy fantasy
+42,predestination,fantasy adventure action
+43,prestige,musical adventure comedy
+44,ironman,drama drama drama
+45,pirates of the carribean,adventure drama drama
+46,prestige,adventure fiction musical
+47,ice age,comedy fiction musical
+48,the shawshank redemption,fantasy drama fantasy
+49,the dark knight,action drama action
+50,harry potter,action fiction adventure
+51,inception,comedy adventure action
+52,ironman,action comedy musical
+53,the dark knight,fantasy action fiction
+54,mission impossible,comedy musical musical
+55,interstellar,drama drama fantasy
+56,pirates of the carribean,action musical adventure
+57,ironman,comedy fantasy action
+58,mission impossible,comedy comedy musical
+59,interstellar,action drama fantasy
+60,mission impossible,musical comedy drama
+61,the shawshank redemption,adventure musical fantasy
+62,knives out,musical drama comedy
+63,inception,comedy action fiction
+64,knives out,musical fiction comedy
+65,harry potter,drama drama adventure
+66,knives out,action comedy musical
+67,predestination,fiction fantasy fiction
+68,ice age,action musical musical
+69,pirates of the carribean,adventure action adventure
+70,tenet,comedy fantasy comedy
+71,predestination,drama musical comedy
+72,interstellar,comedy adventure drama
+73,harry potter,adventure musical adventure
+74,pirates of the carribean,comedy adventure adventure
+75,prestige,fantasy drama action
+76,the dark knight,musical comedy adventure
+77,mission impossible,fiction musical fantasy
+78,pirates of the carribean,adventure comedy fantasy
+79,interstellar,comedy comedy adventure
+80,ironman,adventure comedy action
+81,prestige,drama musical action
+82,knives out,fiction comedy adventure
+83,inception,musical action action
+84,predestination,adventure fiction musical
+85,the dark knight,adventure comedy musical
+86,the dark knight,comedy action action
+87,the shawshank redemption,musical comedy fantasy
+88,prestige,fantasy fantasy action
+89,knives out,fiction comedy adventure
+90,pirates of the carribean,action musical action
+91,ice age,fiction comedy fiction
+92,pirates of the carribean,fiction adventure comedy
+93,tenet,action action fantasy
+94,prestige,comedy fantasy musical
+95,the shawshank redemption,musical musical fiction
+96,predestination,action drama fiction
+97,predestination,fantasy fiction musical
+98,ice age,fiction drama fantasy
+99,the dark knight,fantasy comedy fantasy
+100,prestige,fantasy fantasy adventure
+101,harry potter,adventure comedy adventure
+102,predestination,musical adventure fiction
+103,prestige,fiction comedy fantasy
+104,prestige,drama comedy fantasy
+105,inception,adventure fiction fiction
+106,interstellar,musical comedy drama
+107,ironman,adventure adventure fiction
+108,prestige,action action fiction
+109,the dark knight,fiction action drama
+110,interstellar,adventure comedy fiction
+111,tenet,action drama comedy
+112,tenet,fantasy musical comedy
+113,harry potter,musical adventure fiction
+114,inception,musical action comedy
+115,inception,fiction comedy drama
+116,tenet,adventure drama comedy
+117,harry potter,comedy drama comedy
+118,inception,fiction musical fiction
+119,prestige,fantasy comedy action
+120,tenet,drama adventure action
+121,prestige,drama action musical
+122,ice age,drama fantasy musical
+123,predestination,drama drama action
+124,predestination,fantasy fantasy action
+125,knives out,fiction adventure action
+126,inception,fiction adventure adventure
+127,inception,fantasy musical comedy
+128,ice age,musical comedy drama
+129,the shawshank redemption,adventure comedy fiction
+130,knives out,drama fantasy comedy
+131,knives out,drama adventure adventure
+132,interstellar,fantasy action drama
+133,interstellar,musical fiction comedy
+134,ironman,comedy action action
+135,prestige,comedy action drama
+136,knives out,action drama comedy
+137,prestige,comedy action action
+138,ironman,comedy drama drama
+139,tenet,fantasy action adventure
+140,tenet,drama adventure drama
+141,predestination,fantasy comedy fiction
+142,pirates of the carribean,musical comedy fantasy
+143,ice age,musical fantasy comedy
+144,interstellar,action adventure fiction
+145,mission impossible,drama drama comedy
+146,harry potter,musical action action
+147,mission impossible,musical action fantasy
+148,mission impossible,adventure drama musical
+149,mission impossible,fantasy fantasy fiction
+150,ice age,adventure adventure fiction
+151,the dark knight,fiction drama action
+152,prestige,drama musical action
+153,tenet,drama comedy adventure
+154,tenet,drama action action
+155,the dark knight,fantasy musical action
+156,the shawshank redemption,action fantasy drama
+157,ironman,comedy fantasy fantasy
+158,knives out,comedy musical fantasy
+159,predestination,musical adventure musical
+160,interstellar,adventure adventure comedy
+161,prestige,drama drama adventure
+162,the dark knight,comedy action adventure
+163,inception,drama fantasy action
+164,tenet,fantasy adventure fantasy
+165,interstellar,action action musical
+166,the dark knight,fantasy musical drama
+167,ice age,fantasy drama musical
+168,the shawshank redemption,fantasy action fiction
+169,prestige,drama musical musical
+170,the shawshank redemption,fantasy fiction action
+171,pirates of the carribean,fantasy adventure fantasy
+172,mission impossible,fantasy fantasy fantasy
+173,harry potter,action musical drama
+174,pirates of the carribean,adventure fantasy fiction
+175,the dark knight,fiction adventure fantasy
+176,mission impossible,musical fantasy adventure
+177,ironman,musical fantasy comedy
+178,ironman,musical comedy comedy
+179,ice age,musical musical fantasy
+180,harry potter,comedy adventure adventure
+181,harry potter,comedy fantasy adventure
+182,prestige,drama musical musical
+183,knives out,fiction drama adventure
+184,predestination,fantasy action fiction
+185,the dark knight,adventure fiction fantasy
+186,inception,adventure action adventure
+187,knives out,fantasy action adventure
+188,the shawshank redemption,fantasy comedy musical
+189,ice age,drama fiction comedy
+190,inception,musical adventure fiction
+191,the dark knight,drama adventure adventure
+192,the shawshank redemption,adventure musical adventure
+193,ice age,adventure fiction musical
+194,pirates of the carribean,drama action adventure
+195,ice age,action musical drama
+196,the shawshank redemption,adventure comedy comedy
+197,pirates of the carribean,comedy adventure fiction
+198,tenet,comedy drama musical
+199,ice age,comedy musical action
+200,predestination,musical comedy comedy
+201,predestination,musical drama musical
+202,prestige,fantasy adventure action
+203,prestige,action adventure musical
+204,predestination,adventure musical adventure
+205,prestige,action musical fantasy
+206,ironman,adventure fantasy comedy
+207,knives out,fantasy action adventure
+208,knives out,action action fiction
+209,mission impossible,fiction comedy fiction
+210,pirates of the carribean,musical action musical
+211,the dark knight,drama fantasy fantasy
+212,ironman,comedy fiction adventure
+213,interstellar,musical musical musical
+214,predestination,action comedy comedy
+215,pirates of the carribean,drama comedy comedy
+216,knives out,comedy fiction adventure
+217,predestination,fantasy fantasy action
+218,inception,comedy musical fantasy
+219,knives out,fiction adventure fantasy
+220,knives out,comedy musical comedy
+221,ice age,fiction comedy musical
+222,predestination,fiction adventure action
+223,tenet,comedy musical drama
+224,pirates of the carribean,action fantasy action
+225,ironman,comedy action drama
+226,harry potter,comedy comedy action
+227,knives out,comedy fantasy comedy
+228,pirates of the carribean,comedy musical musical
+229,the shawshank redemption,action adventure fantasy
+230,mission impossible,drama fantasy action
+231,the dark knight,fantasy action drama
+232,prestige,action fantasy comedy
+233,predestination,comedy action action
+234,the dark knight,action comedy musical
+235,harry potter,fantasy fiction drama
+236,interstellar,fantasy musical musical
+237,knives out,action drama fiction
+238,pirates of the carribean,action comedy comedy
+239,tenet,fiction fiction fantasy
+240,inception,fantasy fantasy adventure
+241,inception,fantasy action musical
+242,mission impossible,adventure fantasy comedy
+243,the shawshank redemption,action adventure adventure
+244,predestination,adventure action action
+245,predestination,musical fiction musical
+246,ironman,action action action
+247,pirates of the carribean,fantasy action musical
+248,harry potter,fiction action musical
+249,the shawshank redemption,action musical action
+250,predestination,comedy fiction fantasy
+251,knives out,drama drama musical
+252,pirates of the carribean,drama adventure drama
+253,pirates of the carribean,drama musical action
+254,the shawshank redemption,musical fiction adventure
+255,tenet,comedy fantasy comedy
+256,ironman,adventure action drama
+257,pirates of the carribean,comedy musical fiction
+258,the shawshank redemption,fantasy comedy musical
+259,inception,comedy drama fantasy
+260,knives out,drama fiction musical
+261,tenet,fiction musical musical
+262,prestige,fiction fiction musical
+263,knives out,fiction drama fiction
+264,interstellar,fiction action fantasy
+265,harry potter,fiction comedy fiction
+266,pirates of the carribean,action comedy fiction
+267,the dark knight,fantasy drama musical
+268,knives out,adventure adventure adventure
+269,knives out,drama fiction action
+270,knives out,action fiction adventure
+271,ironman,fiction musical fiction
+272,prestige,comedy adventure adventure
+273,predestination,adventure action adventure
+274,the dark knight,fantasy action fiction
+275,knives out,action action comedy
+276,interstellar,fiction action fantasy
+277,interstellar,action action adventure
+278,harry potter,comedy adventure comedy
+279,knives out,comedy musical musical
+280,ironman,musical action fiction
+281,the dark knight,comedy fiction musical
+282,inception,fiction musical drama
+283,knives out,fantasy adventure comedy
+284,interstellar,comedy action fantasy
+285,interstellar,action fantasy comedy
+286,knives out,fantasy fiction action
+287,predestination,fiction drama musical
+288,pirates of the carribean,drama comedy action
+289,knives out,comedy action fantasy
+290,inception,fiction fiction fantasy
+291,harry potter,comedy comedy comedy
+292,inception,fantasy drama adventure
+293,interstellar,comedy adventure action
+294,ice age,action adventure drama
+295,prestige,comedy drama adventure
+296,pirates of the carribean,fiction action action
+297,tenet,adventure fantasy adventure
+298,harry potter,drama drama adventure
+299,tenet,adventure drama fiction
+300,harry potter,adventure musical adventure
+301,harry potter,musical action fantasy
+302,pirates of the carribean,fantasy musical fantasy
+303,inception,action adventure fantasy
+304,ice age,comedy adventure fantasy
+305,pirates of the carribean,drama comedy action
+306,the shawshank redemption,musical musical comedy
+307,knives out,action adventure musical
+308,inception,musical fantasy fiction
+309,ice age,comedy musical drama
+310,the dark knight,drama action adventure
+311,tenet,musical comedy comedy
+312,interstellar,musical comedy comedy
+313,ice age,drama fiction fantasy
+314,mission impossible,drama adventure action
+315,inception,action fantasy action
+316,prestige,drama action action
+317,mission impossible,fiction drama adventure
+318,the shawshank redemption,comedy drama fiction
+319,interstellar,action musical adventure
+320,inception,adventure fantasy fantasy
+321,tenet,musical fantasy comedy
+322,inception,action drama adventure
+323,pirates of the carribean,fantasy drama musical
+324,ironman,musical musical action
+325,mission impossible,musical action comedy
+326,the shawshank redemption,drama drama fiction
+327,the shawshank redemption,comedy action adventure
+328,prestige,musical musical drama
+329,interstellar,musical adventure drama
+330,knives out,action comedy musical
+331,mission impossible,adventure musical musical
+332,the shawshank redemption,fantasy fiction fantasy
+333,predestination,musical action adventure
+334,the shawshank redemption,drama drama fiction
+335,prestige,musical fiction fantasy
+336,ironman,drama action comedy
+337,the shawshank redemption,musical comedy fiction
+338,harry potter,comedy fantasy action
+339,ice age,fiction action adventure
+340,the dark knight,drama comedy drama
+341,tenet,action comedy fiction
+342,inception,musical fiction comedy
+343,mission impossible,fantasy musical musical
+344,ice age,adventure comedy fiction
+345,interstellar,drama drama fiction
+346,predestination,drama fiction fantasy
+347,ironman,comedy comedy action
+348,interstellar,action action drama
+349,knives out,adventure comedy adventure
+350,ironman,comedy musical fantasy
+351,knives out,musical fiction fiction
+352,harry potter,fantasy fiction comedy
+353,mission impossible,musical comedy fantasy
+354,predestination,comedy comedy fiction
+355,prestige,adventure action musical
+356,mission impossible,musical comedy adventure
+357,knives out,drama drama action
+358,prestige,fantasy action musical
+359,ironman,fantasy musical action
+360,prestige,fiction musical fantasy
+361,interstellar,fantasy drama fantasy
+362,the shawshank redemption,adventure drama comedy
+363,the dark knight,musical comedy drama
+364,inception,adventure comedy fantasy
+365,prestige,adventure fantasy action
+366,mission impossible,musical drama comedy
+367,inception,action drama comedy
+368,interstellar,fiction musical fiction
+369,pirates of the carribean,fantasy adventure adventure
+370,interstellar,comedy drama musical
+371,tenet,action drama action
+372,knives out,fantasy fiction adventure
+373,prestige,adventure comedy comedy
+374,ice age,drama action comedy
+375,tenet,comedy drama action
+376,tenet,musical action fantasy
+377,pirates of the carribean,drama fiction fantasy
+378,interstellar,adventure action fantasy
+379,the shawshank redemption,musical action drama
+380,knives out,adventure action adventure
+381,ironman,fiction musical action
+382,predestination,drama fiction adventure
+383,ice age,fiction musical adventure
+384,ice age,adventure fiction fiction
+385,the shawshank redemption,action fantasy fantasy
+386,interstellar,drama comedy fantasy
+387,inception,fantasy adventure action
+388,ironman,musical drama adventure
+389,harry potter,comedy fiction drama
+390,tenet,adventure fiction fantasy
+391,tenet,comedy adventure drama
+392,interstellar,musical fantasy musical
+393,pirates of the carribean,musical musical musical
+394,the dark knight,adventure fantasy comedy
+395,interstellar,musical drama action
+396,ironman,adventure fiction comedy
+397,the dark knight,fantasy action adventure
+398,predestination,musical fiction adventure
+399,mission impossible,action comedy adventure
+400,tenet,fantasy action adventure
+401,ice age,action fantasy comedy
+402,harry potter,drama drama fiction
+403,interstellar,fiction drama comedy
+404,ironman,fiction action fantasy
+405,ice age,adventure musical fantasy
+406,the shawshank redemption,musical comedy musical
+407,the dark knight,fiction comedy musical
+408,mission impossible,action fantasy musical
+409,the dark knight,drama action adventure
+410,tenet,fiction drama action
+411,mission impossible,comedy action adventure
+412,the dark knight,musical drama drama
+413,prestige,drama drama comedy
+414,ice age,action comedy musical
+415,the shawshank redemption,drama fantasy fantasy
+416,pirates of the carribean,musical musical action
+417,tenet,adventure musical fiction
+418,tenet,fantasy drama fiction
+419,ice age,fiction drama fantasy
+420,inception,action drama musical
+421,mission impossible,fiction fiction musical
+422,ice age,musical action fantasy
+423,ironman,action drama drama
+424,predestination,musical fiction comedy
+425,harry potter,comedy fantasy action
+426,harry potter,adventure drama fantasy
+427,interstellar,adventure fantasy drama
+428,predestination,fiction fantasy adventure
+429,knives out,fantasy musical musical
+430,ice age,fiction fiction drama
+431,tenet,comedy adventure fantasy
+432,inception,adventure adventure action
+433,tenet,action drama musical
+434,ice age,comedy action action
+435,knives out,drama musical fiction
+436,interstellar,fantasy adventure adventure
+437,predestination,action action drama
+438,pirates of the carribean,action drama adventure
+439,inception,fiction adventure action
+440,pirates of the carribean,adventure musical fiction
+441,prestige,adventure fiction fiction
+442,knives out,action musical fantasy
+443,ice age,adventure fantasy comedy
+444,ironman,adventure drama adventure
+445,prestige,musical musical adventure
+446,pirates of the carribean,comedy comedy fiction
+447,pirates of the carribean,fiction comedy action
+448,ice age,fiction comedy adventure
+449,mission impossible,adventure adventure fiction
+450,the shawshank redemption,musical comedy drama
+451,knives out,drama action musical
+452,harry potter,fiction drama fantasy
+453,ironman,fantasy musical action
+454,inception,adventure comedy action
+455,pirates of the carribean,fiction drama drama
+456,ice age,comedy fiction comedy
+457,pirates of the carribean,adventure adventure musical
+458,pirates of the carribean,adventure comedy fantasy
+459,tenet,drama musical drama
+460,pirates of the carribean,fantasy fantasy action
+461,knives out,fiction fiction action
+462,pirates of the carribean,musical fantasy fiction
+463,tenet,fantasy comedy drama
+464,mission impossible,musical action comedy
+465,ice age,drama fiction fiction
+466,ironman,action musical adventure
+467,knives out,action adventure fiction
+468,ice age,drama action action
+469,inception,fiction adventure fiction
+470,ice age,fiction action drama
+471,ironman,comedy action drama
+472,ironman,comedy fantasy action
+473,the shawshank redemption,musical comedy musical
+474,inception,musical musical action
+475,harry potter,fiction musical action
+476,ice age,comedy comedy fantasy
+477,ice age,action action musical
+478,harry potter,fiction musical fiction
+479,harry potter,comedy adventure fantasy
+480,predestination,comedy fantasy fiction
+481,interstellar,action musical action
+482,interstellar,comedy comedy action
+483,the shawshank redemption,action musical adventure
+484,interstellar,adventure adventure musical
+485,interstellar,adventure comedy action
+486,knives out,fantasy adventure drama
+487,pirates of the carribean,comedy comedy adventure
+488,the shawshank redemption,drama drama drama
+489,knives out,comedy fantasy drama
+490,the dark knight,fantasy musical adventure
+491,predestination,fiction musical adventure
+492,knives out,musical adventure action
+493,ironman,comedy comedy fiction
+494,interstellar,comedy action fantasy
+495,ice age,action adventure adventure
+496,the shawshank redemption,action drama fiction
+497,predestination,comedy fiction fiction
+498,pirates of the carribean,drama fiction action
+499,tenet,fiction drama drama
+500,pirates of the carribean,musical comedy fiction
+501,interstellar,musical fiction adventure
+502,inception,action fiction fiction
+503,mission impossible,drama comedy fantasy
+504,prestige,adventure comedy drama
+505,predestination,drama adventure fantasy
+506,prestige,action fiction comedy
+507,inception,action drama action
+508,harry potter,adventure musical drama
+509,mission impossible,comedy musical drama
+510,knives out,drama action fantasy
+511,the dark knight,comedy drama adventure
+512,the dark knight,musical action fantasy
+513,knives out,fiction adventure fiction
+514,knives out,adventure action musical
+515,harry potter,action adventure musical
+516,ice age,action comedy action
+517,harry potter,fiction action adventure
+518,tenet,drama drama musical
+519,pirates of the carribean,fiction fantasy fiction
+520,harry potter,fantasy fiction comedy
+521,tenet,adventure action fiction
+522,tenet,musical comedy adventure
+523,mission impossible,comedy action action
+524,knives out,comedy fiction action
+525,mission impossible,fantasy drama fiction
+526,mission impossible,musical fiction musical
+527,ice age,fantasy drama comedy
+528,ironman,comedy adventure fiction
+529,knives out,drama action fantasy
+530,the shawshank redemption,fiction comedy fantasy
+531,ice age,fantasy musical adventure
+532,the dark knight,adventure adventure fiction
+533,ice age,drama drama musical
+534,prestige,fiction musical action
+535,knives out,action comedy adventure
+536,inception,musical comedy fiction
+537,knives out,adventure comedy drama
+538,harry potter,musical action fiction
+539,inception,comedy action fiction
+540,knives out,fiction adventure fiction
+541,the dark knight,drama action drama
+542,tenet,action action comedy
+543,mission impossible,fantasy fiction fiction
+544,the shawshank redemption,fiction musical fantasy
+545,inception,drama action fantasy
+546,tenet,drama comedy musical
+547,prestige,comedy fiction musical
+548,interstellar,musical action comedy
+549,the dark knight,drama adventure fantasy
+550,interstellar,musical comedy comedy
+551,harry potter,fantasy fantasy fiction
+552,the shawshank redemption,fantasy fiction musical
+553,inception,drama drama adventure
+554,tenet,adventure comedy fiction
+555,inception,drama adventure comedy
+556,inception,adventure action comedy
+557,the shawshank redemption,adventure comedy musical
+558,the shawshank redemption,fiction fiction comedy
+559,ice age,fiction drama drama
+560,pirates of the carribean,musical musical fantasy
+561,knives out,drama comedy adventure
+562,the shawshank redemption,drama adventure drama
+563,tenet,action drama comedy
+564,inception,musical fiction fantasy
+565,inception,fiction action adventure
+566,ironman,fiction musical adventure
+567,predestination,drama fiction adventure
+568,the dark knight,comedy comedy drama
+569,pirates of the carribean,drama action fantasy
+570,pirates of the carribean,fiction fiction musical
+571,predestination,drama fiction fiction
+572,the shawshank redemption,musical drama action
+573,pirates of the carribean,musical action fantasy
+574,the shawshank redemption,musical adventure comedy
+575,ice age,fantasy fantasy fantasy
+576,tenet,fiction comedy fantasy
+577,predestination,action action comedy
+578,the shawshank redemption,musical musical musical
+579,harry potter,fiction action fantasy
+580,the dark knight,fantasy comedy fiction
+581,the dark knight,drama musical fantasy
+582,harry potter,fiction fiction musical
+583,mission impossible,fantasy fantasy musical
+584,the shawshank redemption,action drama comedy
+585,ironman,action fantasy musical
+586,pirates of the carribean,fiction fiction drama
+587,prestige,adventure adventure fantasy
+588,the shawshank redemption,fiction adventure fantasy
+589,mission impossible,musical adventure musical
+590,pirates of the carribean,musical musical comedy
+591,tenet,drama fiction action
+592,predestination,musical action musical
+593,knives out,adventure comedy drama
+594,mission impossible,adventure fiction comedy
+595,pirates of the carribean,drama drama fiction
+596,predestination,drama adventure drama
+597,mission impossible,action action fiction
+598,the dark knight,comedy fantasy fiction
+599,tenet,musical fantasy drama
+600,inception,comedy musical fiction
+601,pirates of the carribean,comedy adventure adventure
+602,inception,fantasy action fiction
+603,the dark knight,adventure musical fantasy
+604,prestige,drama fiction drama
+605,the dark knight,musical musical drama
+606,ironman,adventure fantasy drama
+607,harry potter,adventure action musical
+608,inception,action fiction action
+609,harry potter,action action comedy
+610,pirates of the carribean,action comedy adventure
+611,knives out,comedy action comedy
+612,mission impossible,adventure fantasy comedy
+613,pirates of the carribean,comedy drama drama
+614,the dark knight,drama drama drama
+615,knives out,fantasy drama adventure
+616,harry potter,fantasy comedy drama
+617,predestination,action fiction action
+618,interstellar,fiction action musical
+619,harry potter,action comedy fiction
+620,harry potter,adventure comedy comedy
+621,mission impossible,musical action drama
+622,ice age,comedy musical action
+623,ironman,comedy fiction action
+624,harry potter,drama fiction action
+625,inception,musical action fiction
+626,mission impossible,drama fiction drama
+627,tenet,fiction fantasy fantasy
+628,the dark knight,fiction action fiction
+629,ironman,drama comedy fiction
+630,the dark knight,adventure fiction musical
+631,ironman,action adventure fiction
+632,prestige,action fiction adventure
+633,inception,fiction action drama
+634,the dark knight,adventure action fantasy
+635,knives out,action action fantasy
+636,the dark knight,action fiction action
+637,predestination,adventure comedy adventure
+638,the dark knight,musical action musical
+639,the shawshank redemption,comedy adventure fiction
+640,pirates of the carribean,musical fantasy adventure
+641,ironman,drama fantasy action
+642,harry potter,fantasy fantasy comedy
+643,ice age,comedy drama action
+644,tenet,action fiction fantasy
+645,inception,fiction drama comedy
+646,harry potter,musical musical adventure
+647,prestige,action comedy adventure
+648,inception,comedy action action
+649,interstellar,fantasy fiction adventure
+650,prestige,comedy fantasy drama
+651,prestige,action comedy action
+652,mission impossible,comedy action fantasy
+653,ironman,drama musical comedy
+654,harry potter,fantasy adventure fantasy
+655,predestination,fiction adventure drama
+656,pirates of the carribean,comedy drama fantasy
+657,pirates of the carribean,fantasy comedy adventure
+658,the dark knight,fiction comedy adventure
+659,ironman,musical fantasy action
+660,ironman,fiction musical fantasy
+661,prestige,fiction fantasy adventure
+662,inception,drama fantasy comedy
+663,pirates of the carribean,fantasy adventure action
+664,the shawshank redemption,action drama comedy
+665,inception,musical fantasy adventure
+666,inception,fantasy fiction adventure
+667,mission impossible,adventure fantasy comedy
+668,pirates of the carribean,adventure action action
+669,the shawshank redemption,action fantasy drama
+670,the dark knight,comedy comedy comedy
+671,pirates of the carribean,comedy action drama
+672,prestige,fantasy fiction action
+673,mission impossible,drama comedy drama
+674,predestination,comedy fiction fantasy
+675,interstellar,fiction drama action
+676,tenet,adventure adventure fantasy
+677,the shawshank redemption,fantasy musical comedy
+678,prestige,drama comedy fiction
+679,pirates of the carribean,drama action action
+680,pirates of the carribean,fantasy adventure musical
+681,ironman,adventure fiction fiction
+682,pirates of the carribean,fiction drama action
+683,pirates of the carribean,fiction comedy fiction
+684,harry potter,action fiction action
+685,interstellar,drama fiction action
+686,prestige,musical action fiction
+687,the dark knight,fantasy fantasy comedy
+688,knives out,fantasy action drama
+689,interstellar,drama fantasy drama
+690,mission impossible,drama adventure drama
+691,interstellar,musical adventure adventure
+692,the shawshank redemption,action fantasy fiction
+693,the shawshank redemption,action fantasy drama
+694,harry potter,fantasy musical adventure
+695,predestination,adventure comedy adventure
+696,harry potter,adventure action fantasy
+697,interstellar,drama musical action
+698,inception,action fantasy comedy
+699,ironman,comedy comedy adventure
+700,tenet,action comedy drama
+701,ironman,drama drama drama
+702,pirates of the carribean,comedy drama drama
+703,predestination,musical action musical
+704,prestige,action adventure fiction
+705,knives out,action comedy action
+706,prestige,action comedy drama
+707,interstellar,adventure action action
+708,ironman,fiction action comedy
+709,ice age,drama fiction drama
+710,harry potter,musical fiction comedy
+711,interstellar,fantasy drama musical
+712,interstellar,action drama adventure
+713,ice age,drama action comedy
+714,tenet,comedy drama drama
+715,prestige,musical drama adventure
+716,ice age,fantasy comedy fiction
+717,prestige,musical action action
+718,prestige,comedy adventure drama
+719,ironman,adventure adventure fantasy
+720,ice age,comedy fiction action
+721,mission impossible,fantasy fiction drama
+722,the shawshank redemption,adventure adventure comedy
+723,inception,fantasy drama drama
+724,predestination,musical adventure fantasy
+725,ice age,fantasy action adventure
+726,prestige,adventure fiction drama
+727,inception,adventure fiction drama
+728,predestination,action musical fantasy
+729,mission impossible,musical fantasy fiction
+730,tenet,fantasy drama fantasy
+731,the dark knight,musical drama comedy
+732,ice age,musical drama adventure
+733,prestige,comedy musical comedy
+734,the shawshank redemption,musical musical fiction
+735,ironman,fiction action fiction
+736,harry potter,action adventure comedy
+737,interstellar,comedy action drama
+738,ice age,comedy fiction musical
+739,the shawshank redemption,fantasy adventure action
+740,mission impossible,action fantasy comedy
+741,predestination,drama comedy drama
+742,the dark knight,adventure drama drama
+743,pirates of the carribean,action comedy action
+744,mission impossible,drama musical drama
+745,inception,adventure comedy comedy
+746,knives out,fiction adventure action
+747,the shawshank redemption,drama fantasy comedy
+748,the shawshank redemption,fiction fantasy drama
+749,mission impossible,fantasy musical comedy
+750,ice age,musical adventure fantasy
+751,the dark knight,adventure adventure fiction
+752,knives out,musical comedy comedy
+753,knives out,action action fiction
+754,ice age,adventure adventure fantasy
+755,the dark knight,adventure comedy drama
+756,mission impossible,fiction action musical
+757,ironman,adventure fantasy drama
+758,inception,fantasy fiction fiction
+759,ironman,action adventure action
+760,inception,fantasy action fantasy
+761,predestination,drama fiction drama
+762,the shawshank redemption,drama fiction drama
+763,knives out,fiction fantasy action
+764,tenet,adventure comedy musical
+765,inception,adventure fantasy action
+766,mission impossible,fantasy adventure comedy
+767,prestige,fiction drama fiction
+768,tenet,fiction drama drama
+769,interstellar,action musical fiction
+770,knives out,comedy adventure fantasy
+771,mission impossible,comedy drama fantasy
+772,prestige,comedy drama adventure
+773,pirates of the carribean,fiction fantasy fantasy
+774,the dark knight,fiction comedy musical
+775,knives out,adventure drama adventure
+776,interstellar,comedy fantasy fantasy
+777,harry potter,drama action comedy
+778,knives out,drama fiction action
+779,ironman,adventure drama comedy
+780,mission impossible,fiction action comedy
+781,ice age,comedy adventure comedy
+782,harry potter,fiction comedy comedy
+783,inception,fiction fiction fantasy
+784,ironman,musical adventure adventure
+785,interstellar,fantasy comedy action
+786,predestination,adventure comedy musical
+787,pirates of the carribean,drama fiction musical
+788,prestige,comedy adventure drama
+789,ice age,fantasy comedy fantasy
+790,harry potter,drama fantasy comedy
+791,interstellar,musical fiction musical
+792,predestination,comedy comedy comedy
+793,ironman,comedy comedy comedy
+794,the shawshank redemption,musical adventure action
+795,mission impossible,fiction fiction drama
+796,harry potter,musical fiction adventure
+797,predestination,fantasy musical fantasy
+798,prestige,adventure drama drama
+799,tenet,adventure fiction action
+800,inception,adventure comedy adventure
+801,prestige,drama drama comedy
+802,ice age,drama adventure adventure
+803,prestige,musical fantasy adventure
+804,the shawshank redemption,fantasy drama drama
+805,pirates of the carribean,musical fantasy comedy
+806,the dark knight,adventure drama fiction
+807,the shawshank redemption,adventure fantasy comedy
+808,mission impossible,fiction fiction action
+809,prestige,musical fantasy comedy
+810,ironman,action fiction comedy
+811,prestige,action fantasy musical
+812,ice age,comedy comedy drama
+813,the dark knight,fantasy adventure action
+814,the shawshank redemption,fantasy action musical
+815,prestige,action drama comedy
+816,prestige,musical adventure fiction
+817,pirates of the carribean,action fiction action
+818,ironman,drama adventure drama
+819,harry potter,fiction musical fantasy
+820,ironman,fiction comedy musical
+821,predestination,comedy action adventure
+822,predestination,comedy action musical
+823,the dark knight,musical musical action
+824,predestination,fantasy adventure action
+825,mission impossible,fantasy fiction drama
+826,predestination,comedy fantasy fantasy
+827,tenet,comedy action musical
+828,mission impossible,action adventure action
+829,interstellar,adventure fantasy drama
+830,the dark knight,adventure adventure fantasy
+831,interstellar,musical fantasy action
+832,ice age,comedy drama musical
+833,tenet,action action fantasy
+834,predestination,fantasy comedy musical
+835,prestige,musical fantasy adventure
+836,predestination,musical fantasy drama
+837,predestination,action action musical
+838,ironman,fantasy fiction musical
+839,the dark knight,musical adventure action
+840,the shawshank redemption,adventure drama fiction
+841,tenet,drama musical musical
+842,the dark knight,musical musical fantasy
+843,tenet,drama musical action
+844,harry potter,fiction comedy fiction
+845,predestination,fiction comedy adventure
+846,mission impossible,comedy drama fiction
+847,prestige,drama comedy fiction
+848,the dark knight,musical comedy drama
+849,mission impossible,comedy comedy action
+850,knives out,musical action fantasy
+851,harry potter,musical fantasy action
+852,the dark knight,drama drama comedy
+853,knives out,adventure adventure fantasy
+854,tenet,comedy adventure musical
+855,knives out,fiction action comedy
+856,the shawshank redemption,adventure comedy drama
+857,mission impossible,action action action
+858,the shawshank redemption,fiction fiction adventure
+859,harry potter,fantasy adventure fantasy
+860,inception,adventure fantasy fiction
+861,prestige,drama action drama
+862,the dark knight,comedy action fiction
+863,interstellar,fantasy musical action
+864,the dark knight,adventure fantasy adventure
+865,ironman,fiction action fantasy
+866,ironman,fiction adventure adventure
+867,ironman,adventure drama action
+868,tenet,comedy drama drama
+869,inception,fantasy fiction musical
+870,pirates of the carribean,musical drama comedy
+871,mission impossible,fantasy comedy musical
+872,interstellar,musical drama fantasy
+873,mission impossible,comedy musical adventure
+874,ice age,drama fiction musical
+875,ironman,action action fiction
+876,ironman,action action action
+877,predestination,action fiction comedy
+878,interstellar,musical comedy fiction
+879,pirates of the carribean,action fiction fiction
+880,prestige,adventure fiction adventure
+881,pirates of the carribean,comedy comedy fantasy
+882,harry potter,adventure adventure adventure
+883,interstellar,fantasy fantasy adventure
+884,mission impossible,adventure fiction action
+885,prestige,comedy adventure drama
+886,pirates of the carribean,fiction action fiction
+887,interstellar,adventure fiction musical
+888,mission impossible,action adventure musical
+889,ice age,fiction drama musical
+890,harry potter,musical action drama
+891,knives out,comedy fantasy comedy
+892,pirates of the carribean,action comedy adventure
+893,knives out,adventure fiction comedy
+894,prestige,drama musical action
+895,ironman,fantasy action fiction
+896,ice age,fiction fantasy fantasy
+897,mission impossible,fiction musical adventure
+898,predestination,fantasy action drama
+899,inception,comedy musical fantasy
+900,mission impossible,musical drama comedy
+901,tenet,drama fiction drama
+902,inception,fiction musical fiction
+903,the dark knight,musical comedy action
+904,harry potter,drama fiction action
+905,mission impossible,drama drama fantasy
+906,predestination,musical adventure action
+907,ice age,comedy drama fiction
+908,the dark knight,fantasy musical drama
+909,harry potter,musical musical musical
+910,knives out,drama musical drama
+911,predestination,adventure action fiction
+912,predestination,musical fiction musical
+913,the dark knight,drama fiction adventure
+914,inception,adventure fantasy comedy
+915,the shawshank redemption,action comedy adventure
+916,the shawshank redemption,fiction drama fantasy
+917,mission impossible,fiction comedy comedy
+918,ice age,fiction fiction comedy
+919,mission impossible,fiction comedy fantasy
+920,mission impossible,drama adventure fantasy
+921,ironman,action musical fantasy
+922,predestination,drama musical comedy
+923,prestige,action comedy action
+924,predestination,action fiction fiction
+925,the dark knight,fantasy adventure comedy
+926,pirates of the carribean,drama comedy action
+927,the shawshank redemption,action adventure adventure
+928,harry potter,drama fiction adventure
+929,knives out,fiction action fiction
+930,prestige,drama drama adventure
+931,ice age,comedy fiction action
+932,mission impossible,action drama adventure
+933,the shawshank redemption,comedy musical adventure
+934,interstellar,fiction adventure fantasy
+935,predestination,musical drama drama
+936,interstellar,comedy comedy musical
+937,pirates of the carribean,drama fiction fiction
+938,predestination,adventure drama comedy
+939,ice age,adventure action fantasy
+940,the shawshank redemption,action fiction adventure
+941,ice age,comedy musical action
+942,prestige,action fantasy action
+943,tenet,fiction fantasy musical
+944,ironman,comedy fantasy fiction
+945,harry potter,drama drama fantasy
+946,pirates of the carribean,drama comedy drama
+947,interstellar,adventure comedy adventure
+948,knives out,musical comedy adventure
+949,ironman,fiction fantasy adventure
+950,pirates of the carribean,fantasy action adventure
+951,ironman,fiction adventure musical
+952,pirates of the carribean,action adventure fiction
+953,the dark knight,fantasy musical adventure
+954,mission impossible,musical fantasy musical
+955,predestination,fiction musical fiction
+956,predestination,action adventure fiction
+957,knives out,fiction fiction musical
+958,tenet,adventure comedy action
+959,the shawshank redemption,action drama musical
+960,prestige,action fiction drama
+961,the shawshank redemption,action action musical
+962,the shawshank redemption,musical adventure action
+963,interstellar,adventure fiction musical
+964,mission impossible,fantasy comedy fiction
+965,the shawshank redemption,action fantasy fiction
+966,ice age,action adventure fantasy
+967,ironman,action fiction fantasy
+968,the dark knight,musical action drama
+969,the dark knight,musical fiction fiction
+970,the dark knight,fiction drama adventure
+971,ice age,drama drama fantasy
+972,inception,action fantasy adventure
+973,predestination,fiction fantasy action
+974,harry potter,musical fantasy adventure
+975,the dark knight,fantasy fiction adventure
+976,pirates of the carribean,comedy action comedy
+977,harry potter,fiction adventure action
+978,prestige,drama fiction fiction
+979,ice age,musical drama action
+980,ice age,action comedy musical
+981,harry potter,fiction action fiction
+982,knives out,musical fiction action
+983,tenet,fiction fantasy adventure
+984,interstellar,action comedy action
+985,prestige,adventure musical drama
+986,mission impossible,drama musical fiction
+987,ice age,fantasy fantasy adventure
+988,knives out,adventure action fiction
+989,tenet,drama adventure comedy
+990,predestination,fiction adventure adventure
+991,tenet,fiction comedy musical
+992,ironman,fantasy fantasy fantasy
+993,ice age,comedy musical fiction
+994,inception,adventure musical musical
+995,the shawshank redemption,adventure fiction fiction
+996,ice age,comedy adventure musical
+997,the dark knight,fiction comedy comedy
+998,knives out,fantasy fiction action
+999,predestination,adventure drama comedy
+1000,inception,comedy musical adventure

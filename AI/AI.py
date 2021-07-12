@@ -29,6 +29,8 @@ def main():
 				speak("go away")
 			
 def speak(this):
-		os.system("espeak -v mb-us1 " + " \"" + this + "\"")
+        #os.system("espeak -en us1 " + " \"" + this + "\"")
+        os.system("espeak " + "\"" + this + "\"")
 		
 main()		
+
