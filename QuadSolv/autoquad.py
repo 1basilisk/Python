@@ -66,8 +66,9 @@ while(real < total):
 		status = True
 		interval += status_delay
 
-end = time.time() #ends timer
+end = time.time() #timer stop
 time = end - start
+
 #Summary printer
 print(f"total equations solved:  {count}")
 print(f"useful equations solved:  {real}")
