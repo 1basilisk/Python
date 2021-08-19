@@ -13,6 +13,9 @@ start = time.time() #start timer
 #variables for printing status.
 status = False
 status_delay = 3 #delay in printing status like "Working on it"
+if sys.argv[1] == "help":
+	print("Usage: autoquad.py [Equations needed]")
+	sys.exit(0)
 print("Running")
 
 #Solver function
@@ -27,17 +30,18 @@ def quad():
 	#math part -------- error[0]	
 	d = (b**2) - (4*a*c)
 	if d >= 0:
-		global real  
-		real += 1	
 		r1 = round(((-b) + (d**(1/2)))/2/a, 3)
 		r2 = round(((-b) - (d**(1/2)))/2/a, 3)
-	
+		if len(sys.argv) == 2:
+			global real  
+			real += 1	
+		else: 
+			if r1 == argv[2]:
+				global real
+				real += 1
 		#saves to file
-		#if r1 == 10:
-			#global real
-			#real += 1
-		with open("qache.csv", mode ="a") as file:
-		 	file.write(f"{a}, {b}, {c}, {d}, {r1}, {r2},\n")
+		# with open("qache.csv", mode ="a") as file:
+		# 	file.write(f"{a}, {b}, {c}, {d}, {r1}, {r2},\n")
 		
 		
 #counters
