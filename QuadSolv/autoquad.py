@@ -40,8 +40,8 @@ def quad():
 				global real
 				real += 1
 		#saves to file
-		# with open("qache.csv", mode ="a") as file:
-		# 	file.write(f"{a}, {b}, {c}, {d}, {r1}, {r2},\n")
+		with open("qache.csv", mode ="a") as file:
+			file.write(f"{a}, {b}, {c}, {d}, {r1}, {r2},\n")
 		
 		
 #counters
