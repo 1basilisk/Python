@@ -24,7 +24,7 @@ count = 0  #total equations solved
 
 start = time.time() #start timer
 saved = False   #tracks if data was saved in file
-StatSaved = False #tracks stat status
+statSaved = False #tracks stat status
 
 #variables for printing status.
 status = False
@@ -125,12 +125,12 @@ with open(statfile, mode="a") as file:
 		file.write(f"{count}, {real}, {count-real}, {time}, {sys.argv[1]}, {sys.argv[2]},\n")
 	if len(sys.argv) == 4:
 		file.write(f"{count}, {real}, {count-real}, {time}, {sys.argv[1]}, {sys.argv[2]}, {sys.argv[3]}\n")
-	StatSaved = True
+	statSaved = True
 
 #Summary printer
 print(f"total equations solved:  {count}")
 print(f"useful equations solved:  {real}")
 print(f"time:  {round(time, 4)} seconds")	
 print(f"Data-Saved: {saved}")
-print(f"Stat-Saved: {StatSaved}")
+print(f"Stat-Saved: {statSaved}")
 print(f"use \"{name} help\" for help")
