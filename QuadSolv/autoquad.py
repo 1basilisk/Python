@@ -43,6 +43,7 @@ if len(sys.argv) >= 2:  #checks if help is asked
 		print(f"-> Use {name} <number of equations> <root> to generate specified number of equations with a specified root.")
 		print(f"-> Use {name} <number of equations> <root1> <root2> to generate specified number of equations with given roots.")
 		print(f"-> Generated data is stored in {outfile}")
+		print(f"-> Stats are stored in {statfile}")
 		print("----"*20)
 		sys.exit(0)
 print("Running")
